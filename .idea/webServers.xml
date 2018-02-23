@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d4f43c3-df82-4af0-b1d5-95a0d80f7f77" name="yolobling" url="http://puteborgne.sexy">
+        <fileTransfer port="0" mountedRoot="" accessType="MOUNT" />
+      </webServer>
+      <webServer id="eded42a5-10e7-4c3c-ab97-e6e51a06a70d" name="localhost" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\wamp64\www" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
